@@ -1,0 +1,6 @@
+{
+  "name": "Retro Console Portfolio & Blog",
+  "description": "An interactive, Nintendo-themed personal portfolio, lesson blog, and guestbook with GitHub integration, Google Apps Script documentation, and a password-protected admin hub.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
